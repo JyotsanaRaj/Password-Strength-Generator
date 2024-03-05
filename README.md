@@ -1,2 +1,2 @@
 # Password-Strength-Generator
-I make this by using html,css and javascript.
+I made this password strength generator by using html,css and javascript.
